@@ -1,0 +1,8 @@
+C:\Users\Mapenda\OneDrive - UQAM\Bureau\Tutorial\inventory-management-system\inventory-management-system\obj\Debug\net7.0\inventory-management-system.csproj.AssemblyReference.cache
+C:\Users\Mapenda\OneDrive - UQAM\Bureau\Tutorial\inventory-management-system\inventory-management-system\obj\Debug\net7.0\inventory-management-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mapenda\OneDrive - UQAM\Bureau\Tutorial\inventory-management-system\inventory-management-system\obj\Debug\net7.0\inventory-management-system.AssemblyInfoInputs.cache
+C:\Users\Mapenda\OneDrive - UQAM\Bureau\Tutorial\inventory-management-system\inventory-management-system\obj\Debug\net7.0\inventory-management-system.AssemblyInfo.cs
+C:\Users\Mapenda\OneDrive - UQAM\Bureau\Tutorial\inventory-management-system\inventory-management-system\obj\Debug\net7.0\inventory-management-system.csproj.CoreCompileInputs.cache
+C:\Users\Mapenda\OneDrive - UQAM\Bureau\Tutorial\inventory-management-system\inventory-management-system\obj\Debug\net7.0\inventory-management-system.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mapenda\OneDrive - UQAM\Bureau\Tutorial\inventory-management-system\inventory-management-system\obj\Debug\net7.0\inventory-management-system.RazorAssemblyInfo.cache
+C:\Users\Mapenda\OneDrive - UQAM\Bureau\Tutorial\inventory-management-system\inventory-management-system\obj\Debug\net7.0\inventory-management-system.RazorAssemblyInfo.cs
